@@ -309,7 +309,7 @@ void WorkerManager::showWorker() {
 	}
 	else {
 		for (int i = 0; i < workerNum; i++) {
-			workerArr[i]->showInfo();
+			if(workerArr[i]!=nullptr) workerArr[i]->showInfo();
 		}
 		cout << endl;
 	}

@@ -1,7 +1,2 @@
-﻿  boss.cpp
-  employee.cpp
-  manager.cpp
-  workerManager.cpp
-  职工管理系统.cpp
-  正在生成代码...
+﻿  workerManager.cpp
   职工管理系统.vcxproj -> F:\C++code\职工管理系统\x64\Debug\职工管理系统.exe
